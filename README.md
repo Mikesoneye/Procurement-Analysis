@@ -92,7 +92,8 @@ Examples include:
 <img width="793" height="304" alt="Capture 1" src="https://github.com/user-attachments/assets/9de92750-e248-4f7d-be3d-1a5cadb104ed" />
 
 2. **Quarterly Procurement Trend**: Purchase order value increased progressively from Quarter 1 through Quarter 4. This suggests that procurement activity was highest toward the end of the year and may indicate increased purchasing requirements, budget utilization, or operational demand during the later quarters.
-<img width="265" height="178" alt="Capture" src="https://github.com/user-attachments/assets/3f1c9695-7bdf-4caa-b11d-22a0bd7687cb" />
+<img width="297" height="206" alt="Capture 123" src="https://github.com/user-attachments/assets/11e10792-281a-4809-bce8-ac941110ad5e" />
+
 
 3. **Monthly Purchasing Activity**: September recorded the highest number of purchase orders, while February recorded the lowest. This indicates that procurement activity was not evenly distributed throughout the year, with purchasing activity becoming considerably stronger later in the year.
 <img width="190" height="266" alt="Capture" src="https://github.com/user-attachments/assets/aeb810ad-839a-4530-8b62-76b7c52c4f9f" />

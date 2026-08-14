@@ -88,15 +88,13 @@ Examples include:
 
 ## Key Findings
 1. **Purchasing Officer Performance**: Fyodor Dostoyevsky was the highest-contributing purchasing officer based on PO savings amount and PO amount across both domestic and international purchasing activities. Fyodor accounted for approximately 20% of domestic purchasing order value and 14% of international purchasing order value. In contrast, Aldous Huxley had the lowest contribution across both domestic and international purchasing activities, accounting for approximately 1% in each category. This indicates a significant concentration of purchasing activity among certain purchasing officers.
-<img width="451" height="339" alt="Capture" src="https://github.com/user-attachments/assets/59ee77de-86f5-4ec3-8503-4c9dec7407f6" />
-<img width="793" height="304" alt="Capture 1" src="https://github.com/user-attachments/assets/9de92750-e248-4f7d-be3d-1a5cadb104ed" />
+<img width="1083" height="528" alt="Capture combined 1" src="https://github.com/user-attachments/assets/1a2dbf35-61d1-43d1-82de-3408d5696e07" />
 
 2. **Quarterly Procurement Trend**: Purchase order value increased progressively from Quarter 1 through Quarter 4. This suggests that procurement activity was highest toward the end of the year and may indicate increased purchasing requirements, budget utilization, or operational demand during the later quarters.
 <img width="297" height="206" alt="Capture 123" src="https://github.com/user-attachments/assets/11e10792-281a-4809-bce8-ac941110ad5e" />
 
-
 3. **Monthly Purchasing Activity**: September recorded the highest number of purchase orders, while February recorded the lowest. This indicates that procurement activity was not evenly distributed throughout the year, with purchasing activity becoming considerably stronger later in the year.
-<img width="190" height="266" alt="Capture" src="https://github.com/user-attachments/assets/aeb810ad-839a-4530-8b62-76b7c52c4f9f" />
+<img width="569" height="296" alt="Capture" src="https://github.com/user-attachments/assets/78fb43c7-5657-480e-9ca3-9916a59dfd11" />
 
 5. **Account Type Concentration**: Travel & Entertainment represented 33.41% of purchase order activity, followed by Office & Supplies at 26.89%. Together, these two account types accounted for approximately 60% of purchasing activity, indicating a high concentration of procurement across a relatively small number of spending categories.
 <img width="443" height="311" alt="Capture" src="https://github.com/user-attachments/assets/f6c8d59e-fba5-4e49-90ce-4e266ad11dc4" />
@@ -106,8 +104,8 @@ Examples include:
 
 <img width="351" height="272" alt="Capture 14" src="https://github.com/user-attachments/assets/4aeab93a-395f-40d9-8cda-43b94964d928" />
 
-7. **Procurement Spend by Department**: Marketing accounted for the largest share of purchase order value at approximately $34.28 million (39%), followed by G&A at $28.49 million (33%). When Technical is included, these three departments accounted for approximately 92% of total purchase order value. This indicates a significant concentration of procurement expenditure among a small number of departments.
-<img width="535" height="232" alt="Capture marketing" src="https://github.com/user-attachments/assets/c4c4d4b4-ecc3-4c8a-b57e-ad99e64fb53f" />
+7. **Procurement Spend by Department**: Marketing accounted for the largest share of purchase order value at approximately $34.28 million (39.29%), followed by G&A at $28.49 million (33.65%). When Technical is included, these three departments accounted for approximately 92% of total purchase order value. This indicates a significant concentration of procurement expenditure among a small number of departments.
+<img width="615" height="343" alt="Capture" src="https://github.com/user-attachments/assets/f5013ca7-a07b-4f76-9083-78019729152a" />
 
 
 ## Recommendations
